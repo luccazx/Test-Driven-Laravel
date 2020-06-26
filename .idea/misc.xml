@@ -3,4 +3,13 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="StickyNotes">
+    <option name="stickyNotes">
+      <list>
+        <SerializedStickyNote>
+          <option name="description" value="testing" />
+        </SerializedStickyNote>
+      </list>
+    </option>
+  </component>
 </project>
